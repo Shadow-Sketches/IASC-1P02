@@ -5,16 +5,14 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="description" content="Basic Page Module 3" />
 		<meta content="en-us" http-equiv="Content-Language" />
-		<title>This is some awesome text</title>
-		<link href="styles.css" type="text/css" rel="stylesheet" />
+		<title>Challenge Content</title>
+
+		<link href="ChallengeOne.css" type="text/css" rel="stylesheet" />
 	</head>
 
 	<body>
-		<!--The body contains all of the content for our page-->
 
-		<div>
-			<p>This is some awesome text</p>
-		</div>
+
 
 
 	</body>
