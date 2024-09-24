@@ -1,0 +1,14 @@
+body{
+  color:red;
+}
+
+.list{
+  color:green;
+  font-style: italic;
+}
+
+.items{
+  text-align: justify;
+  font-size: 30px;
+
+}
