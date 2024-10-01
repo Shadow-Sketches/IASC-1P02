@@ -1,4 +1,4 @@
-#bod{
+.bod{
   background-color:blue;
 }
 
@@ -7,4 +7,22 @@
   margin: 200px 10% 200px 10%;
   border: black 5px solid;
 
+}
+
+p{
+  margin:20px 20px 20px 20px;
+  border: white 1px dashed;
+  color:red;
+  font-family:sans-serif;
+}
+
+.red{
+  font-style: sans serif;
+  font-color: red;
+}
+
+img {
+  margin: 20px 20px 0px 0px;
+  border: white 1px dashed;
+  padding: 20px 20px 20px 20px;
 }
