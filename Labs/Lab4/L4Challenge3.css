@@ -1,0 +1,21 @@
+.bod{
+  background-color: green;
+}
+
+.box{
+  margin:20px 20px 20px 20px;
+  border: black 3px dashed;
+  padding: 30px 20px 30px 5px;
+}
+
+.textone{
+  color:red;
+}
+
+.texttwo{
+  color:#06402B;
+}
+
+.textthree{
+  color:purple;
+}
