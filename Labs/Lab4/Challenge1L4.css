@@ -1,6 +1,10 @@
-#body{
-  color:blue;
+#bod{
+  background-color:blue;
 }
 
 
-.div{
+.box{
+  margin: 200px 10% 200px 10%;
+  border: black 5px solid;
+
+}
