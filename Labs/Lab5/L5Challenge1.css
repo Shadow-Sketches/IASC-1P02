@@ -1,0 +1,43 @@
+body{
+	color:blue;
+	background-color:green;
+}
+
+
+
+
+#header{
+  background-color:red;
+  color: white;
+	height:50px;
+	text-align:center;
+}
+
+
+#leftbody{
+	float:left;
+	width:190px;
+	height: 500px;
+	padding:5px;
+  color:white;
+}
+
+
+#rightbody{
+	float:left;
+	height:500px;
+  width:550px;
+	padding:5px;
+
+}
+
+
+#bottom{
+
+
+	height:80px;
+  width:1200px;
+  background-color: blue;
+	clear:both;
+
+}

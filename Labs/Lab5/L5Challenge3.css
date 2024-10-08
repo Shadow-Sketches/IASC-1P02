@@ -1,0 +1,48 @@
+body{
+
+	background-color:green;
+}
+
+
+#wraper{
+	width:750px;
+	margin:0 auto;
+	background-color:white;
+}
+
+
+#leftbody{
+	float:left;
+	width:200px;
+	height: 200px;
+	background-color:blue;
+	padding:5px;
+
+}
+#rightbody{
+	float:right;
+	width:200px;
+	height:200px;
+	background:red;
+	padding:5px;
+}
+
+#third{
+  background-color:yellow;
+width:220px;
+height:220px;
+position: absolute;
+top:400px;
+left:400px;
+
+
+}
+
+#bottom{
+	text-align:center;
+	height:200px;
+  width:200px
+  margin: auto;
+	clear:both;
+
+}
