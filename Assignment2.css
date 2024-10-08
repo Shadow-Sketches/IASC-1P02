@@ -1,0 +1,55 @@
+p{
+  color:blue;
+}
+
+div p{
+  color:purple;
+}
+
+
+#p3{
+  font-family: sans-serif;
+}
+
+#p4{
+  text-transform: uppercase;
+}
+
+
+
+.t1,.t3{
+  color:purple;
+}
+.t2{
+  color:green;
+}
+
+
+#fox{
+  width:800px;
+  height:800px;
+  margin:20px 20px 20px 20px;
+  border:black 3px dashed;
+  padding:10px 10px 10px 10px
+
+}
+
+
+
+#clicky{
+  font-size: 30px;
+  position: fixed;
+  top:50px;
+  left:50px;
+}
+
+#Vaggie{
+  position: relative;
+left:50px;
+}
+
+#lists{
+  position: absolute;
+  top:600px;
+ left:800px;
+}
