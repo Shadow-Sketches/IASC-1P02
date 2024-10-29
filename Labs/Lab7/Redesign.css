@@ -1,0 +1,47 @@
+body{
+
+	background-color:#38040e;
+}
+
+
+
+
+#head p{
+	height:120px;
+	text-align:center;
+  font-size: 60px;
+  background-color:#bc3908;
+
+}
+
+#head img{
+  float:left;
+  width:150px;
+  height:100px;
+}
+
+
+#b1{
+height:400px;
+}
+
+
+#words{
+  background-color:maroon;
+  font-family: sans-serif;
+}
+
+
+
+#footer{
+
+  background-color:#bc3908;
+
+}
+
+
+#footer img{
+  align-items: flex-end;
+  height:50px;
+  width:50px;
+}
