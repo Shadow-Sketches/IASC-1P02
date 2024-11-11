@@ -1,0 +1,113 @@
+body{
+
+	background-color:#ADD8E6;
+}
+
+
+
+
+#header{
+	height:130px;
+  background-color:#e5f0fa;
+  color:#23395d;
+  font-family: georgia;
+
+}
+
+#header h3{
+	display: block;
+  margin: 4px 0px 0px 5px;
+  padding:4px 0px 0px 5px;
+
+}
+
+
+#header ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow:hidden;
+}
+#header li{
+	display:block;
+	width:190px;
+float: right;
+
+
+}
+
+
+
+#book{
+  height:810px;
+margin:10px  10px 10px 10px;
+padding:10px 10px 10px 10px;
+background-color:#192841;
+}
+
+#book img{
+display:block;
+margin-left: auto;
+margin-right: auto;
+width:40%;
+padding:20px;
+}
+
+#book h1{
+  text-align: center;
+  color:grey;
+  font-family: georgia;
+  font-size: 50px;
+}
+
+
+
+#blah{
+	color:#192841;
+	font-size: 17px;
+	font-family:Verdana;
+	text-align: center;
+
+}
+
+
+
+#column1 {
+  float: left;
+  width: 33.33%;
+  height:600px;
+  padding:10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#column2 {
+  float: left;
+  width: 33.33%;
+  height:600px;
+  padding:10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+#column3 {
+  float: left;
+  width: 33.33%;
+  height:600px;
+  padding:10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+
+
+#footer{
+	background-color:#e5f0fa;
+	height:80px;
+	width:100%;
+	clear:both;
+	color:#23395d;
+	Margin:10px 0px 0px 10px;
+	padding:10px 0px 0px 10px;
+	font-family: georgia;
+}
